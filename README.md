@@ -4,7 +4,7 @@
 </div>
 <br>
 
-# Frappe Chat
+# Frappe GovChat
 
 ![UI Tests](https://github.com/frappe/chat/actions/workflows/ui-tests.yml/badge.svg)
 
